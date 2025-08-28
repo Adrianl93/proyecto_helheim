@@ -1,40 +1,9 @@
-# Archivos de Unity
-/[Ll]ibrary/
+# Unity
+[Ll]ibrary/
 [Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-
-# Archivos de Visual Studio
-.vs/
-*.suo
-*.ntvs*
-
-# Archivos de compilación
-[Bb]in/
-[Oo]bj/
-
-# Otros archivos
-.DS_Store
-Thumbs.db
-
-# Archivos de Unity específicos
-*.sln.meta
-*.csproj.meta
-*.unityproj.meta
-*.booproj.meta
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
-
-# Archivos de Unity que no se deben versionar
-sysinfo.txt
-*.userprefs
-*.pidb
-*.pdb
-*.mdb
-
-# Archivos de paquetes de NuGet
-*.nupkg
-
-# Archivos de caché de Unity
-/Library/PackageCache/
+.vsconfig
